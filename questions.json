@@ -1,0 +1,1106 @@
+{
+  "Module - I: Introduction to Interaction Design 01": [
+    {
+      "question": "Which sense is most commonly used for interacting with computer systems?",
+      "options": ["Touch", "Hearing", "Sight", "Smell"],
+      "answer": "Sight",
+      "explanation": "Sight (visual perception) is the primary sense for nearly all screen-based interactions, as it processes graphical interfaces and text."
+    },
+    {
+      "question": "What type of memory briefly stores sensory input from the environment?",
+      "options": ["Short-term memory", "Long-term memory", "Sensory memory", "Procedural memory"],
+      "answer": "Sensory memory",
+      "explanation": "Sensory memory holds an exact copy of what is seen, heard, or touched, but only for a fraction of a second, allowing selection for further processing."
+    },
+    {
+      "question": "Which HCI interaction model uses typed commands to interact with a system?",
+      "options": ["Graphical User Interface", "Command-Line Interface", "Touch-Based Interface", "Augmented Reality Interface"],
+      "answer": "Command-Line Interface",
+      "explanation": "The Command-Line Interface (CLI) is text-based and requires the user to type specific commands to instruct the system."
+    },
+    {
+      "question": "What is the primary goal of UX design?",
+      "options": ["Increase system complexity", "Provide a satisfying user experience", "Reduce system features", "Maximize memory usage"],
+      "answer": "Provide a satisfying user experience",
+      "explanation": "User Experience (UX) design focuses on making the interaction enjoyable, efficient, and relevant for the user."
+    },
+    {
+      "question": "Which type of memory stores facts, ideas, and skills for long-term use?",
+      "options": ["Short-term memory", "Episodic memory", "Semantic memory", "Sensory memory"],
+      "answer": "Semantic memory",
+      "explanation": "Semantic memory stores general world knowledge and facts, independent of context, making it long-term knowledge."
+    },
+    {
+      "question": "Which component of the eye is responsible for color vision?",
+      "options": ["Rods", "Cones", "Fovea", "Optic nerve"],
+      "answer": "Cones",
+      "explanation": "Cones are photoreceptors in the retina that operate best in bright light and are responsible for high-resolution and color vision."
+    },
+    {
+      "question": "What does the Ponzo illusion demonstrate?",
+      "options": ["Perception of brightness", "Perception of depth and size", "Perception of color", "Perception of sound"],
+      "answer": "Perception of depth and size",
+      "explanation": "The Ponzo illusion, using converging lines, tricks the visual system into perceiving identical objects as different sizes due to depth cues."
+    },
+    {
+      "question": "Which sensory receptor responds to heat and cold?",
+      "options": ["Mechanoreceptors", "Nociceptors", "Thermoreceptors", "Photoreceptors"],
+      "answer": "Thermoreceptors",
+      "explanation": "Thermoreceptors are specialized sensory receptors that detect changes in temperature (heat and cold)."
+    },
+    {
+      "question": "What is the approximate recall capacity of short-term memory?",
+      "options": ["3 ± 1 items", "7 ± 2 items", "10 ± 3 items", "12 ± 4 items"],
+      "answer": "7 ± 2 items",
+      "explanation": "George Miller famously defined the capacity of short-term memory (or working memory) as roughly seven plus or minus two items (chunks)."
+    },
+    {
+      "question": "What is a primary function of haptic perception in HCI?",
+      "options": ["Detect sound", "Perceive touch and object manipulation", "Sense color", "Measure brightness"],
+      "answer": "Perceive touch and object manipulation",
+      "explanation": "Haptic perception refers to the use of touch (tactile feedback) to feel and manipulate objects, crucial in virtual reality and touchscreen devices."
+    },
+    {
+      "question": "Which interaction model allows users to communicate in natural language?",
+      "options": ["Command-Line Interface", "Graphical User Interface", "Natural Language Interface", "Augmented Reality Interface"],
+      "answer": "Natural Language Interface",
+      "explanation": "Natural Language Interfaces (NLI) allow communication using spoken or written natural human language, such as conversational AI."
+    },
+    {
+      "question": "What is the main limitation of working (short-term) memory?",
+      "options": ["Limited capacity and rapid decay", "Too much information stored permanently", "Only stores procedural knowledge", "Cannot handle visual input"],
+      "answer": "Limited capacity and rapid decay",
+      "explanation": "Working memory is characterized by being able to hold only a small amount of information (limited capacity) for a short period (rapid decay)."
+    },
+    {
+      "question": "Which type of HCI interface involves using gestures and motions on screens?",
+      "options": ["Command-Line Interface", "Graphical User Interface", "Touch-Based Interface", "Voice Interface"],
+      "answer": "Touch-Based Interface",
+      "explanation": "Touch-Based Interfaces utilize direct manipulation on a screen, primarily involving gestures like swiping, tapping, and pinching."
+    },
+    {
+      "question": "Which memory type stores events in the order they occurred?",
+      "options": ["Semantic memory", "Episodic memory", "Procedural memory", "Sensory memory"],
+      "answer": "Episodic memory",
+      "explanation": "Episodic memory is concerned with autobiographical events (episodes) and the context in which they were experienced."
+    },
+    {
+      "question": "What is kinesthesia concerned with in HCI?",
+      "options": ["Color perception", "Hearing differences", "Position of body and limbs", "Visual depth perception"],
+      "answer": "Position of body and limbs",
+      "explanation": "Kinesthesia is the sense that detects bodily movement, weight, and the position of limbs, often relevant in gesture-based systems."
+    },
+    {
+      "question": "Which component of UX design focuses on easy-to-use interfaces?",
+      "options": ["Visual design", "Usability", "Information architecture", "Prototyping"],
+      "answer": "Usability",
+      "explanation": "Usability is the extent to which a system can be used by specified users to achieve specified goals with effectiveness, efficiency, and satisfaction."
+    },
+    {
+      "question": "What type of cells detect movement in the retina?",
+      "options": ["Rods", "Cones", "X-cells", "Y-cells"],
+      "answer": "Y-cells",
+      "explanation": "In the visual system, Y-cells (also called transient cells) respond quickly but briefly to stimuli, making them excellent detectors of movement."
+    },
+    {
+      "question": "Which of the following is an example of an AR interaction?",
+      "options": ["Typing in CLI", "Touching a touchscreen", "Giving vocal instructions to overlayed graphics", "Clicking icons in GUI"],
+      "answer": "Giving vocal instructions to overlayed graphics",
+      "explanation": "Augmented Reality (AR) involves overlaying digital information onto the real world. Interacting with those virtual objects via voice is a common AR method."
+    },
+    {
+      "question": "Which factor primarily affects perceived brightness in visual interfaces?",
+      "options": ["Color hue", "Luminance of objects", "Sound volume", "Temperature of device"],
+      "answer": "Luminance of objects",
+      "explanation": "Luminance is the measure of the intensity of light reflected or emitted by a surface, which is the physical property that determines perceived brightness."
+    },
+    {
+      "question": "Which principle helps improve short-term memory capacity?",
+      "options": ["Chunking information", "Increasing text size", "Adding sound cues", "Using multiple colors"],
+      "answer": "Chunking information",
+      "explanation": "Chunking is the process of grouping small pieces of information into larger, more meaningful units, which dramatically increases the effective capacity of short-term memory."
+    }
+  ],
+
+  "Module - II: Human-Centered Design 02": [
+    
+    {
+      "question": "What is the main goal of human-centered design?",
+      "options": ["Maximizing profits", "Focusing on user needs", "Using latest technology", "Following trends"],
+      "answer": "Focusing on user needs",
+      "explanation": "Human-centered design prioritizes designing products and systems that meet the actual needs and experiences of users."
+    },
+    {
+      "question": "Which method helps designers understand user behavior?",
+      "options": ["Brainstorming", "User observation", "Coding exercises", "Market competition analysis"],
+      "answer": "User observation",
+      "explanation": "Observing users in real contexts provides insights into how they interact with products and what problems they face."
+    },
+    {
+      "question": "What does prototyping allow designers to do?",
+      "options": ["Skip user testing", "Test ideas quickly", "Sell products faster", "Avoid documentation"],
+      "answer": "Test ideas quickly",
+      "explanation": "Prototypes are used to visualize and test concepts early, allowing for rapid iteration based on user feedback."
+    },
+    {
+      "question": "Which technique involves creating fictional characters to represent user types?",
+      "options": ["Wireframing", "Storyboarding", "Personas", "Usability testing"],
+      "answer": "Personas",
+      "explanation": "Personas are detailed profiles of representative users to help guide design decisions."
+    },
+    {
+      "question": "What is the purpose of a usability test?",
+      "options": ["To measure system performance", "To evaluate how easily users can use a product", "To train users", "To create marketing materials"],
+      "answer": "To evaluate how easily users can use a product",
+      "explanation": "Usability tests assess whether a product is intuitive and effective for its intended users."
+    },
+    {
+      "question": "Which tool is commonly used to plan the layout of an interface?",
+      "options": ["Wireframe", "Persona", "Prototype", "Storyboard"],
+      "answer": "Wireframe",
+      "explanation": "Wireframes are simplified visual guides that outline the structure and layout of a user interface."
+    },
+    {
+      "question": "Storyboards in design are used to:",
+      "options": ["Visualize the user journey", "Test software code", "Collect market data", "Design logos"],
+      "answer": "Visualize the user journey",
+      "explanation": "Storyboards depict step-by-step user interactions, helping designers understand context and scenarios."
+    },
+    {
+      "question": "Which phase of design involves identifying user problems and needs?",
+      "options": ["Ideation", "Empathize", "Prototype", "Test"],
+      "answer": "Empathize",
+      "explanation": "The empathize phase is focused on understanding the user's perspective and uncovering their needs."
+    },
+    {
+      "question": "Which approach encourages iterative cycles of design, testing, and refinement?",
+      "options": ["Waterfall model", "Human-centered design", "Random testing", "Linear design"],
+      "answer": "Human-centered design",
+      "explanation": "Human-centered design promotes iterative cycles to ensure the final product effectively meets user needs."
+    },
+    {
+      "question": "What is a common output of brainstorming sessions?",
+      "options": ["Ideas and concepts", "Detailed prototypes", "Final product design", "Usability reports"],
+      "answer": "Ideas and concepts",
+      "explanation": "Brainstorming generates a wide range of ideas that can later be refined and prototyped."
+    },
+    {
+      "question": "Which method helps prioritize features based on user needs?",
+      "options": ["Heuristic evaluation", "Affinity diagramming", "Wireframing", "Benchmarking"],
+      "answer": "Affinity diagramming",
+      "explanation": "Affinity diagramming groups insights and feedback to identify patterns and prioritize features."
+    },
+    {
+      "question": "What does a heuristic evaluation involve?",
+      "options": ["Testing usability based on expert rules", "Interviewing users", "Sketching interfaces", "Developing marketing strategy"],
+      "answer": "Testing usability based on expert rules",
+      "explanation": "Heuristic evaluation identifies usability issues using recognized design principles without direct user testing."
+    },
+    {
+      "question": "Which is an example of a low-fidelity prototype?",
+      "options": ["Paper sketches", "Fully coded app", "High-resolution mockup", "Interactive AR experience"],
+      "answer": "Paper sketches",
+      "explanation": "Low-fidelity prototypes are simple, quick representations used to test ideas without full development."
+    },
+    {
+      "question": "Which activity is part of the ideation phase?",
+      "options": ["Generating multiple solutions", "Conducting usability testing", "Creating personas", "Monitoring analytics"],
+      "answer": "Generating multiple solutions",
+      "explanation": "Ideation focuses on exploring different ways to solve identified user problems."
+    },
+    {
+      "question": "Why is user feedback critical in design?",
+      "options": ["It ensures designs align with user needs", "It increases code efficiency", "It reduces project budget", "It eliminates the need for testing"],
+      "answer": "It ensures designs align with user needs",
+      "explanation": "Feedback validates whether the design meets user expectations and identifies areas for improvement."
+    },
+    {
+      "question": "Which of these best describes accessibility in design?",
+      "options": ["Designing for advanced users only", "Ensuring products can be used by people with disabilities", "Focusing on aesthetics", "Adding extra features"],
+      "answer": "Ensuring products can be used by people with disabilities",
+      "explanation": "Accessibility ensures all users, including those with disabilities, can interact with a product effectively."
+    },
+    {
+      "question": "What is the main purpose of contextual inquiry?",
+      "options": ["Observe users in their real environment", "Conduct surveys online", "Analyze competitors", "Develop marketing campaigns"],
+      "answer": "Observe users in their real environment",
+      "explanation": "Contextual inquiry involves observing and interviewing users in their natural environment to understand real behaviors and challenges."
+    },
+    {
+      "question": "Which design principle emphasizes keeping interfaces simple and intuitive?",
+      "options": ["Minimalism", "Complexity", "Redundancy", "Novelty"],
+      "answer": "Minimalism",
+      "explanation": "Minimalist design reduces clutter and focuses on essential elements, making interfaces easier to use."
+    },
+    {
+      "question": "Which type of testing involves real users performing real tasks?",
+      "options": ["Usability testing", "Alpha testing", "Unit testing", "Stress testing"],
+      "answer": "Usability testing",
+      "explanation": "Usability testing directly evaluates how real users interact with a product to identify issues and improve experience."
+    },
+    {
+      "question": "Which concept ensures that users feel in control and confident while interacting with a system?",
+      "options": ["Feedback and visibility", "Hidden features", "Random actions", "Complex navigation"],
+      "answer": "Feedback and visibility",
+      "explanation": "Providing clear feedback and making system status visible ensures users understand actions and remain confident."
+    }
+],
+"Module - III: Interaction Design Principles 03": [
+  {
+    "question": "What is the primary goal of interaction design?",
+    "options": ["Making products look attractive", "Enabling efficient and enjoyable user interaction", "Using the latest technology", "Following competitor designs"],
+    "answer": "Enabling efficient and enjoyable user interaction",
+    "explanation": "Interaction design focuses on creating interfaces that make it easy and pleasant for users to achieve their goals."
+  },
+  {
+    "question": "Which principle emphasizes keeping users informed about system status?",
+    "options": ["Consistency", "Feedback", "Affordance", "Flexibility"],
+    "answer": "Feedback",
+    "explanation": "Feedback provides users with information about what the system is doing, reducing confusion and errors."
+  },
+  {
+    "question": "What does consistency in design help with?",
+    "options": ["Making interfaces unpredictable", "Reducing learning curve and errors", "Adding more features", "Improving hardware performance"],
+    "answer": "Reducing learning curve and errors",
+    "explanation": "Consistency ensures that similar elements behave in the same way, making interfaces easier to learn and use."
+  },
+  {
+    "question": "Which concept refers to visual clues that indicate how an object can be used?",
+    "options": ["Affordance", "Feedback", "Mapping", "Visibility"],
+    "answer": "Affordance",
+    "explanation": "Affordances are cues in the design that suggest the possible actions a user can take, like a button looking clickable."
+  },
+  {
+    "question": "What is the purpose of mapping in interface design?",
+    "options": ["Connecting controls to their effects logically", "Decorating the interface", "Adding animations", "Reducing system speed"],
+    "answer": "Connecting controls to their effects logically",
+    "explanation": "Mapping ensures that the relationship between controls and their outcomes is clear and intuitive."
+  },
+  {
+    "question": "Which principle ensures that important information is visible to users when needed?",
+    "options": ["Visibility", "Consistency", "Feedback", "Affordance"],
+    "answer": "Visibility",
+    "explanation": "Visibility makes crucial system information and options easy to see and access, improving usability."
+  },
+  {
+    "question": "Which principle focuses on preventing user errors before they happen?",
+    "options": ["Error prevention", "Flexibility", "Consistency", "Affordance"],
+    "answer": "Error prevention",
+    "explanation": "Error prevention reduces mistakes by designing the system to avoid risky or confusing situations for the user."
+  },
+  {
+    "question": "What does flexibility in interaction design allow users to do?",
+    "options": ["Customize the interface and use shortcuts", "Break the system", "Access hidden features only", "Follow rigid workflows"],
+    "answer": "Customize the interface and use shortcuts",
+    "explanation": "Flexibility supports both novice and expert users by allowing customization and alternative ways to perform tasks."
+  },
+  {
+    "question": "Which principle focuses on helping users recognize, diagnose, and recover from errors?",
+    "options": ["Error recovery", "Feedback", "Consistency", "Mapping"],
+    "answer": "Error recovery",
+    "explanation": "Good error recovery provides meaningful messages and guidance to help users fix mistakes efficiently."
+  },
+  {
+    "question": "Which principle ensures the design is simple and avoids unnecessary complexity?",
+    "options": ["Simplicity", "Visibility", "Affordance", "Feedback"],
+    "answer": "Simplicity",
+    "explanation": "Simplicity removes clutter and focuses on essential features, making interfaces easier to understand and use."
+  },
+  {
+    "question": "What is the primary goal of user control in interaction design?",
+    "options": ["Allowing users to initiate and control actions", "Forcing users to follow strict rules", "Hiding advanced features", "Reducing functionality"],
+    "answer": "Allowing users to initiate and control actions",
+    "explanation": "User control empowers users to make decisions, undo actions, and feel confident while interacting with the system."
+  },
+  {
+    "question": "Which principle emphasizes providing multiple ways to achieve the same task?",
+    "options": ["Flexibility", "Feedback", "Mapping", "Consistency"],
+    "answer": "Flexibility",
+    "explanation": "Flexibility supports diverse user preferences by offering alternative ways to perform tasks efficiently."
+  },
+  {
+    "question": "What does the principle of minimal surprise aim for?",
+    "options": ["Making the system behave as users expect", "Adding unexpected features", "Changing layouts randomly", "Using complex jargon"],
+    "answer": "Making the system behave as users expect",
+    "explanation": "Minimal surprise ensures that users can predict the system’s behavior based on their prior experience, reducing confusion."
+  },
+  {
+    "question": "Which principle is about designing interfaces that communicate clearly through design elements?",
+    "options": ["Visibility", "Affordance", "Signifiers", "Consistency"],
+    "answer": "Signifiers",
+    "explanation": "Signifiers are cues that indicate what actions are possible, guiding the user through interface elements effectively."
+  },
+  {
+    "question": "Which principle focuses on making navigation predictable and understandable?",
+    "options": ["Consistency", "Feedback", "Flexibility", "Error prevention"],
+    "answer": "Consistency",
+    "explanation": "Consistent navigation ensures users know where they are, what options are available, and what to expect when interacting."
+  },
+  {
+    "question": "What is the purpose of progressive disclosure in design?",
+    "options": ["Show only necessary information first", "Hide all features permanently", "Display all information at once", "Force users to explore randomly"],
+    "answer": "Show only necessary information first",
+    "explanation": "Progressive disclosure reveals details gradually, preventing users from being overwhelmed and helping them focus on tasks."
+  },
+  {
+    "question": "Which principle emphasizes designing for the widest range of users?",
+    "options": ["Accessibility", "Minimalism", "Error recovery", "Mapping"],
+    "answer": "Accessibility",
+    "explanation": "Accessibility ensures users with varying abilities can effectively use the system, including those with disabilities."
+  },
+  {
+    "question": "Which principle helps users quickly understand how to interact with a system without instructions?",
+    "options": ["Affordance", "Error recovery", "Flexibility", "Progressive disclosure"],
+    "answer": "Affordance",
+    "explanation": "Affordances are design cues that suggest possible actions, helping users operate the system intuitively."
+  },
+  {
+    "question": "Which principle helps users by showing the results of their actions immediately?",
+    "options": ["Feedback", "Consistency", "Minimalism", "Flexibility"],
+    "answer": "Feedback",
+    "explanation": "Immediate feedback reassures users and allows them to understand the impact of their actions in real-time."
+  },
+  {
+    "question": "Why is the principle of error tolerance important in design?",
+    "options": ["It allows users to make mistakes without serious consequences", "It encourages risky behavior", "It hides errors from users", "It prevents users from experimenting"],
+    "answer": "It allows users to make mistakes without serious consequences",
+    "explanation": "Error tolerance ensures the system can handle mistakes gracefully, preventing frustration and data loss."
+  }
+],
+"Module - IV: Understanding and Conceptualizing Interaction 04": [
+  {
+    "question": "What is a mental model in interaction design?",
+    "options": ["A physical prototype", "A user's internal understanding of a system", "A coding framework", "A visual mockup"],
+    "answer": "A user's internal understanding of a system",
+    "explanation": "Mental models are how users perceive and expect a system to work, which guides their interaction."
+  },
+  {
+    "question": "Which method helps uncover how users think and behave?",
+    "options": ["Contextual inquiry", "Benchmarking", "Wireframing", "Marketing analysis"],
+    "answer": "Contextual inquiry",
+    "explanation": "Contextual inquiry involves observing and interviewing users in their environment to understand their workflows and expectations."
+  },
+  {
+    "question": "What does task analysis focus on?",
+    "options": ["Breaking down user goals and actions", "Designing logos", "Evaluating competitors", "Coding efficiency"],
+    "answer": "Breaking down user goals and actions",
+    "explanation": "Task analysis examines what users do to achieve goals, helping designers create effective interfaces."
+  },
+  {
+    "question": "What is a use case?",
+    "options": ["A scenario describing user interaction with a system", "A software testing method", "A design trend", "A hardware component"],
+    "answer": "A scenario describing user interaction with a system",
+    "explanation": "Use cases define sequences of steps users take to accomplish tasks, guiding system design."
+  },
+  {
+    "question": "Which diagram is commonly used to model user interactions?",
+    "options": ["Flowchart", "Histogram", "Pie chart", "Gantt chart"],
+    "answer": "Flowchart",
+    "explanation": "Flowcharts visualize sequences of actions and decision points, making user interactions easier to understand."
+  },
+  {
+    "question": "What does a scenario represent in design?",
+    "options": ["A narrative describing a user's activity", "A code snippet", "A color palette", "A server architecture"],
+    "answer": "A narrative describing a user's activity",
+    "explanation": "Scenarios tell a story about how a user would interact with a system in context."
+  },
+  {
+    "question": "Which type of model shows the structure of a system without focusing on user behavior?",
+    "options": ["Conceptual model", "Physical model", "Mental model", "Workflow diagram"],
+    "answer": "Conceptual model",
+    "explanation": "Conceptual models help designers plan how a system works from a design perspective, separate from the user’s perspective."
+  },
+  {
+    "question": "What is the main purpose of storyboarding in interaction design?",
+    "options": ["Visualize user experience step by step", "Create high-fidelity prototypes", "Analyze competitors", "Write code algorithms"],
+    "answer": "Visualize user experience step by step",
+    "explanation": "Storyboards provide a sequence of illustrations showing how users interact with a system or complete tasks."
+  },
+  {
+    "question": "Which tool helps represent complex interactions with symbols and connections?",
+    "options": ["Interaction diagram", "Mockup", "Wireframe", "Storyboard"],
+    "answer": "Interaction diagram",
+    "explanation": "Interaction diagrams use symbols to represent objects, actions, and relationships in user-system interaction."
+  },
+  {
+    "question": "What is an example of cognitive walkthrough?",
+    "options": ["Evaluating interface steps from a user's perspective", "Conducting A/B testing", "Measuring server speed", "Drawing wireframes"],
+    "answer": "Evaluating interface steps from a user's perspective",
+    "explanation": "Cognitive walkthroughs simulate how a user would complete tasks to find usability issues."
+  },
+  {
+    "question": "Which approach focuses on designing for user goals rather than system features?",
+    "options": ["Goal-directed design", "Feature-first design", "Technical design", "Decorative design"],
+    "answer": "Goal-directed design",
+    "explanation": "Goal-directed design starts with understanding user objectives and shapes the system to meet those goals efficiently."
+  },
+  {
+    "question": "Which concept describes users’ expectations based on prior experience?",
+    "options": ["Mental model", "Physical model", "Interaction design pattern", "Wireframe"],
+    "answer": "Mental model",
+    "explanation": "Users rely on mental models to predict system behavior, which designers should consider for intuitive interfaces."
+  },
+  {
+    "question": "Which tool is used to quickly visualize user-system interaction ideas?",
+    "options": ["Paper prototype", "Database schema", "API documentation", "Style guide"],
+    "answer": "Paper prototype",
+    "explanation": "Paper prototypes are simple sketches of interfaces that allow designers to test interaction concepts rapidly."
+  },
+  {
+    "question": "What is a scenario-based design approach?",
+    "options": ["Designing systems around user narratives and tasks", "Developing backend algorithms", "Creating graphic assets", "Measuring performance metrics"],
+    "answer": "Designing systems around user narratives and tasks",
+    "explanation": "Scenario-based design uses user stories to inform design decisions and evaluate usability."
+  },
+  {
+    "question": "Why is understanding user context important?",
+    "options": ["It reveals the environment and conditions affecting interaction", "It improves code efficiency", "It reduces server load", "It decorates the interface"],
+    "answer": "It reveals the environment and conditions affecting interaction",
+    "explanation": "User context, such as location, device, and social environment, affects how users interact with a system."
+  },
+  {
+    "question": "Which method captures the sequence of steps a user takes to complete a task?",
+    "options": ["Task analysis", "Storyboarding", "Wireframing", "Heuristic evaluation"],
+    "answer": "Task analysis",
+    "explanation": "Task analysis breaks down user actions into step-by-step sequences to guide effective interface design."
+  },
+  {
+    "question": "Which model helps align the designer’s perspective with user expectations?",
+    "options": ["Conceptual model", "Server model", "Algorithm model", "Database model"],
+    "answer": "Conceptual model",
+    "explanation": "Conceptual models guide designers to structure the system in ways users can easily understand."
+  },
+  {
+    "question": "Which diagram illustrates the flow of data or tasks between system components?",
+    "options": ["Interaction diagram", "Pie chart", "Histogram", "Wireframe"],
+    "answer": "Interaction diagram",
+    "explanation": "Interaction diagrams represent data or task flow, showing relationships and dependencies in a system."
+  },
+  {
+    "question": "Which design approach is centered on storytelling to capture user experience?",
+    "options": ["Scenario-based design", "Waterfall design", "Agile design", "Technical design"],
+    "answer": "Scenario-based design",
+    "explanation": "Scenario-based design uses stories and narratives to explore how users will interact with a system."
+  },
+  {
+    "question": "Which activity is essential for validating conceptual models?",
+    "options": ["User testing and feedback", "Graphic design", "Server configuration", "Code optimization"],
+    "answer": "User testing and feedback",
+    "explanation": "Validating conceptual models with real users ensures the design aligns with user expectations and mental models."
+  }
+],
+"Module - V: Designing for Usability 05": [
+  {
+    "question": "What is the main goal of designing for usability?",
+    "options": ["Make interfaces visually appealing", "Ensure users can achieve goals efficiently and effectively", "Use the latest technology", "Follow competitor trends"],
+    "answer": "Ensure users can achieve goals efficiently and effectively",
+    "explanation": "Usability design ensures that products are easy to learn, efficient to use, and satisfying for users."
+  },
+  {
+    "question": "Which principle focuses on making systems easy to learn for new users?",
+    "options": ["Learnability", "Flexibility", "Consistency", "Error recovery"],
+    "answer": "Learnability",
+    "explanation": "Learnability ensures that new users can quickly understand and start using the system effectively."
+  },
+  {
+    "question": "Which method evaluates how easily users complete tasks?",
+    "options": ["Usability testing", "Market research", "Brainstorming", "Wireframing"],
+    "answer": "Usability testing",
+    "explanation": "Usability testing observes users performing tasks to identify difficulties and improve interface design."
+  },
+  {
+    "question": "Which metric measures the time users take to complete a task?",
+    "options": ["Efficiency", "Satisfaction", "Error rate", "Accessibility"],
+    "answer": "Efficiency",
+    "explanation": "Efficiency assesses how quickly and smoothly users can achieve their goals with the system."
+  },
+  {
+    "question": "What does the term 'satisfaction' in usability refer to?",
+    "options": ["User enjoyment and comfort using the system", "Number of clicks", "Code efficiency", "Server response time"],
+    "answer": "User enjoyment and comfort using the system",
+    "explanation": "Satisfaction measures the subjective experience of users and how pleasant the system feels to use."
+  },
+  {
+    "question": "Which method helps identify design problems without testing with users?",
+    "options": ["Heuristic evaluation", "A/B testing", "Contextual inquiry", "Storyboarding"],
+    "answer": "Heuristic evaluation",
+    "explanation": "Heuristic evaluation uses recognized usability principles to identify potential interface issues."
+  },
+  {
+    "question": "Which principle reduces user errors by making options clear?",
+    "options": ["Error prevention", "Consistency", "Feedback", "Affordance"],
+    "answer": "Error prevention",
+    "explanation": "Error prevention designs interfaces to minimize mistakes before they occur, improving usability."
+  },
+  {
+    "question": "What does the term 'memorability' in usability mean?",
+    "options": ["Users can return to the system and perform tasks easily after a break", "Users enjoy the visual design", "Users can hack the system", "System has minimal code"],
+    "answer": "Users can return to the system and perform tasks easily after a break",
+    "explanation": "Memorability ensures that infrequent users can quickly re-learn how to use the system."
+  },
+  {
+    "question": "Which technique involves comparing multiple design options with users?",
+    "options": ["A/B testing", "Task analysis", "Flowcharting", "Wireframing"],
+    "answer": "A/B testing",
+    "explanation": "A/B testing evaluates two or more design variants to determine which performs better for users."
+  },
+  {
+    "question": "What is a common goal of accessibility in usability?",
+    "options": ["Enable use by people with diverse abilities", "Reduce system load", "Make visuals flashy", "Add hidden features"],
+    "answer": "Enable use by people with diverse abilities",
+    "explanation": "Accessibility ensures that everyone, including people with disabilities, can effectively use the system."
+  },
+  {
+    "question": "Which usability principle emphasizes providing clear feedback on actions?",
+    "options": ["Feedback", "Flexibility", "Consistency", "Affordance"],
+    "answer": "Feedback",
+    "explanation": "Feedback informs users of the results of their actions, reducing confusion and errors."
+  },
+  {
+    "question": "Which principle ensures similar operations work the same way across the system?",
+    "options": ["Consistency", "Visibility", "Error recovery", "Learnability"],
+    "answer": "Consistency",
+    "explanation": "Consistency improves usability by allowing users to predict system behavior and reduces learning time."
+  },
+  {
+    "question": "What does error recovery focus on?",
+    "options": ["Helping users correct mistakes effectively", "Preventing new users from accessing advanced features", "Testing system speed", "Improving graphics"],
+    "answer": "Helping users correct mistakes effectively",
+    "explanation": "Error recovery provides guidance, undo options, or explanations so users can fix errors without frustration."
+  },
+  {
+    "question": "Which principle emphasizes keeping tasks and information visible and clear?",
+    "options": ["Visibility", "Flexibility", "Affordance", "Satisfaction"],
+    "answer": "Visibility",
+    "explanation": "Visibility ensures users can easily see options and information they need to complete tasks."
+  },
+  {
+    "question": "Which method involves observing users performing real tasks in context?",
+    "options": ["Field observation", "Heuristic evaluation", "Paper prototyping", "Flowcharting"],
+    "answer": "Field observation",
+    "explanation": "Field observation captures real user behavior and challenges, helping improve system usability."
+  },
+  {
+    "question": "Which usability metric tracks mistakes users make while performing tasks?",
+    "options": ["Error rate", "Efficiency", "Satisfaction", "Learnability"],
+    "answer": "Error rate",
+    "explanation": "Error rate counts the number of mistakes or incorrect actions, highlighting interface issues."
+  },
+  {
+    "question": "Which approach reduces complexity by showing only necessary information?",
+    "options": ["Progressive disclosure", "Wireframing", "Heuristic evaluation", "Cognitive walkthrough"],
+    "answer": "Progressive disclosure",
+    "explanation": "Progressive disclosure improves usability by revealing information gradually to avoid overwhelming users."
+  },
+  {
+    "question": "Which usability principle ensures that expert users can perform tasks quickly?",
+    "options": ["Flexibility and efficiency", "Learnability", "Memorability", "Error prevention"],
+    "answer": "Flexibility and efficiency",
+    "explanation": "Supporting shortcuts, customization, and alternative workflows allows expert users to work efficiently."
+  },
+  {
+    "question": "What is a common output of a usability test?",
+    "options": ["List of interface issues and improvement recommendations", "Final marketing plan", "Server optimization report", "Color palette"],
+    "answer": "List of interface issues and improvement recommendations",
+    "explanation": "Usability tests reveal difficulties users face and provide actionable feedback to improve design."
+  },
+  {
+    "question": "Which factor primarily affects user satisfaction?",
+    "options": ["Ease of use, efficiency, and system feedback", "Server speed", "Coding language", "Visual aesthetics only"],
+    "answer": "Ease of use, efficiency, and system feedback",
+    "explanation": "Satisfaction depends on how easily users complete tasks, how efficient the system is, and how clearly it communicates."
+  }
+],
+
+"Module - VI: Prototyping 06": [
+  {
+    "question": "What is the primary purpose of prototyping in design?",
+    "options": ["Test and refine ideas before full development", "Create marketing materials", "Measure server performance", "Design final visuals only"],
+    "answer": "Test and refine ideas before full development",
+    "explanation": "Prototypes allow designers to explore, test, and iterate on ideas quickly before investing in full development."
+  },
+  {
+    "question": "Which type of prototype is low-fidelity and quick to create?",
+    "options": ["Paper prototype", "High-fidelity interactive prototype", "Functional app", "Database schema"],
+    "answer": "Paper prototype",
+    "explanation": "Low-fidelity prototypes, like paper sketches, are fast, inexpensive, and ideal for early concept testing."
+  },
+  {
+    "question": "What is a high-fidelity prototype?",
+    "options": ["A detailed, interactive representation close to the final product", "A simple sketch", "A storyboard", "A user persona"],
+    "answer": "A detailed, interactive representation close to the final product",
+    "explanation": "High-fidelity prototypes look and behave almost like the final system, allowing realistic usability testing."
+  },
+  {
+    "question": "Which method allows testing of design ideas without coding?",
+    "options": ["Paper or digital prototyping", "Backend development", "Database management", "Server optimization"],
+    "answer": "Paper or digital prototyping",
+    "explanation": "Prototypes can simulate interactions without actual implementation, helping test concepts early."
+  },
+  {
+    "question": "Why is rapid prototyping useful?",
+    "options": ["It accelerates idea validation and iteration", "It increases server speed", "It improves graphics quality", "It ensures perfect design on first attempt"],
+    "answer": "It accelerates idea validation and iteration",
+    "explanation": "Rapid prototyping enables designers to quickly test, get feedback, and refine concepts efficiently."
+  },
+  {
+    "question": "Which type of prototype focuses on testing interface layout and workflow?",
+    "options": ["Mockup prototype", "Functional backend prototype", "Database prototype", "Server-side prototype"],
+    "answer": "Mockup prototype",
+    "explanation": "Mockups visually represent the interface and layout, allowing designers to evaluate flow and structure."
+  },
+  {
+    "question": "What is the main goal of interactive prototypes?",
+    "options": ["Simulate user interaction realistically", "Decorate the interface", "Optimize server queries", "Measure coding efficiency"],
+    "answer": "Simulate user interaction realistically",
+    "explanation": "Interactive prototypes allow users to click, navigate, and experience the system as they would in the final product."
+  },
+  {
+    "question": "Which prototyping tool is used for creating clickable wireframes?",
+    "options": ["Figma or Adobe XD", "Python", "SQL", "Linux terminal"],
+    "answer": "Figma or Adobe XD",
+    "explanation": "Design tools like Figma and Adobe XD allow creation of interactive wireframes for testing user flows."
+  },
+  {
+    "question": "What does fidelity in prototyping refer to?",
+    "options": ["Level of detail and realism", "Size of the codebase", "Number of users", "Screen resolution only"],
+    "answer": "Level of detail and realism",
+    "explanation": "Fidelity indicates how closely a prototype resembles the final product in appearance and interaction."
+  },
+  {
+    "question": "Which method helps collect feedback on prototypes quickly?",
+    "options": ["Usability testing", "Server stress testing", "Code profiling", "Database indexing"],
+    "answer": "Usability testing",
+    "explanation": "Usability testing gathers insights from users interacting with prototypes to refine designs."
+  },
+  {
+    "question": "Why are prototypes considered an important part of user-centered design?",
+    "options": ["They allow testing ideas with real users before full implementation", "They increase code complexity", "They replace documentation", "They prevent marketing efforts"],
+    "answer": "They allow testing ideas with real users before full implementation",
+    "explanation": "Prototypes provide early feedback from users, aligning the design with actual needs and expectations."
+  },
+  {
+    "question": "Which type of prototype focuses only on demonstrating core functionality?",
+    "options": ["Functional prototype", "Visual mockup", "Storyboard", "Persona"],
+    "answer": "Functional prototype",
+    "explanation": "Functional prototypes implement key actions or tasks, allowing testing of core usability without full features."
+  },
+  {
+    "question": "Which type of prototype is best for testing visual design and layout?",
+    "options": ["High-fidelity mockup", "Paper prototype", "Backend prototype", "Database schema"],
+    "answer": "High-fidelity mockup",
+    "explanation": "High-fidelity mockups focus on detailed visuals, typography, and layout for user evaluation."
+  },
+  {
+    "question": "Which approach helps reduce development cost by catching design issues early?",
+    "options": ["Prototyping", "Full development first", "Marketing surveys", "Database optimization"],
+    "answer": "Prototyping",
+    "explanation": "Identifying and fixing problems at the prototype stage prevents costly changes during full development."
+  },
+  {
+    "question": "Which method is used to create quick sketches of ideas?",
+    "options": ["Paper prototyping", "Automated testing", "Server setup", "Backend coding"],
+    "answer": "Paper prototyping",
+    "explanation": "Paper prototyping is a fast, low-cost way to explore design ideas before creating digital versions."
+  },
+  {
+    "question": "What is the role of user feedback in prototyping?",
+    "options": ["Guide improvements and refine design decisions", "Increase code complexity", "Test server load", "Decorate interface only"],
+    "answer": "Guide improvements and refine design decisions",
+    "explanation": "Feedback from users interacting with prototypes helps designers adjust features and usability."
+  },
+  {
+    "question": "Which prototype type is closest to the final product in functionality?",
+    "options": ["High-fidelity functional prototype", "Paper prototype", "Wireframe", "Storyboard"],
+    "answer": "High-fidelity functional prototype",
+    "explanation": "High-fidelity functional prototypes simulate the final system’s interactions and behavior."
+  },
+  {
+    "question": "Why are multiple prototypes often created during a project?",
+    "options": ["To test different ideas and improve designs iteratively", "To impress stakeholders visually", "To finalize the database structure", "To increase code length"],
+    "answer": "To test different ideas and improve designs iteratively",
+    "explanation": "Iterative prototyping allows designers to refine concepts based on testing and feedback at each stage."
+  },
+  {
+    "question": "Which prototyping activity allows testing for both novices and expert users?",
+    "options": ["Interactive and flexible prototypes", "Server stress testing", "Static mockups only", "Backend scripting"],
+    "answer": "Interactive and flexible prototypes",
+    "explanation": "Prototypes that simulate real interactions allow both novice and experienced users to evaluate usability effectively."
+  },
+  {
+    "question": "What is the main benefit of digital prototyping over paper prototyping?",
+    "options": ["Allows interaction and realistic user testing", "Reduces server load", "Requires no design skills", "Prevents errors automatically"],
+    "answer": "Allows interaction and realistic user testing",
+    "explanation": "Digital prototypes can be interactive, allowing users to click and navigate, providing more accurate usability feedback."
+  }
+],
+
+"Module - VII: Evaluating Designs 07": [
+  {
+    "question": "What is the main purpose of evaluating designs?",
+    "options": ["Identify usability issues and improve user experience", "Decorate the interface", "Optimize server speed", "Reduce development cost only"],
+    "answer": "Identify usability issues and improve user experience",
+    "explanation": "Design evaluation ensures the interface is effective, efficient, and satisfying for users before final implementation."
+  },
+  {
+    "question": "Which method involves observing users completing tasks with the system?",
+    "options": ["Usability testing", "Heuristic evaluation", "Wireframing", "Storyboarding"],
+    "answer": "Usability testing",
+    "explanation": "Usability testing observes real users performing tasks to identify difficulties and improve design."
+  },
+  {
+    "question": "Which evaluation method uses recognized usability principles to find issues?",
+    "options": ["Heuristic evaluation", "A/B testing", "Contextual inquiry", "Task analysis"],
+    "answer": "Heuristic evaluation",
+    "explanation": "Experts review the interface based on usability heuristics to identify potential problems."
+  },
+  {
+    "question": "Which evaluation method gathers feedback from users through interviews or surveys?",
+    "options": ["User feedback and surveys", "Server monitoring", "Paper prototyping", "Wireframing"],
+    "answer": "User feedback and surveys",
+    "explanation": "Direct feedback from users helps understand their experience and satisfaction with the design."
+  },
+  {
+    "question": "Which metric measures how quickly users can complete tasks?",
+    "options": ["Efficiency", "Satisfaction", "Error rate", "Memorability"],
+    "answer": "Efficiency",
+    "explanation": "Efficiency tracks task completion time and helps evaluate how easily users can achieve goals."
+  },
+  {
+    "question": "Which metric tracks mistakes users make while interacting with a system?",
+    "options": ["Error rate", "Learnability", "Satisfaction", "Flexibility"],
+    "answer": "Error rate",
+    "explanation": "Error rate measures the number and types of mistakes, highlighting usability issues."
+  },
+  {
+    "question": "Which metric evaluates how easy it is for users to learn the system?",
+    "options": ["Learnability", "Efficiency", "Consistency", "Accessibility"],
+    "answer": "Learnability",
+    "explanation": "Learnability measures how quickly users can understand and use the system without confusion."
+  },
+  {
+    "question": "Which evaluation method simulates a user's thought process while completing tasks?",
+    "options": ["Cognitive walkthrough", "Heuristic evaluation", "Field observation", "Prototyping"],
+    "answer": "Cognitive walkthrough",
+    "explanation": "Cognitive walkthroughs predict usability problems by simulating how users approach tasks step by step."
+  },
+  {
+    "question": "Which evaluation method observes users in their natural environment?",
+    "options": ["Field observation", "Usability lab testing", "Wireframing", "Flowcharting"],
+    "answer": "Field observation",
+    "explanation": "Field observation captures real user behavior, context, and challenges in natural usage conditions."
+  },
+  {
+    "question": "Which method compares two or more design options to see which performs better?",
+    "options": ["A/B testing", "Heuristic evaluation", "Task analysis", "Storyboarding"],
+    "answer": "A/B testing",
+    "explanation": "A/B testing evaluates different design versions with users to identify which is more effective."
+  },
+  {
+    "question": "Which evaluation method identifies tasks that are confusing or prone to error?",
+    "options": ["Task analysis", "Wireframing", "High-fidelity prototyping", "Marketing survey"],
+    "answer": "Task analysis",
+    "explanation": "Task analysis breaks down user activities into steps to find problematic areas in the workflow."
+  },
+  {
+    "question": "Which evaluation method uses checklists to ensure guidelines and standards are met?",
+    "options": ["Compliance and standards evaluation", "A/B testing", "User feedback", "Cognitive walkthrough"],
+    "answer": "Compliance and standards evaluation",
+    "explanation": "Evaluations against guidelines ensure the design meets usability and accessibility standards."
+  },
+  {
+    "question": "Which metric captures users’ subjective feelings about using the system?",
+    "options": ["Satisfaction", "Efficiency", "Error rate", "Learnability"],
+    "answer": "Satisfaction",
+    "explanation": "Satisfaction measures user comfort, enjoyment, and overall experience with the system."
+  },
+  {
+    "question": "Which evaluation method involves reviewing a design with multiple experts?",
+    "options": ["Expert review", "User survey", "Task analysis", "Field observation"],
+    "answer": "Expert review",
+    "explanation": "Expert review uses knowledge and experience to identify potential usability problems before user testing."
+  },
+  {
+    "question": "Which evaluation method identifies whether a system supports novice and expert users?",
+    "options": ["Usability testing with different user groups", "A/B testing", "Wireframing", "Task analysis"],
+    "answer": "Usability testing with different user groups",
+    "explanation": "Testing with diverse users ensures the system accommodates varying skill levels effectively."
+  },
+  {
+    "question": "Which method predicts usability issues by analyzing users’ first-time interactions?",
+    "options": ["Cognitive walkthrough", "Heuristic evaluation", "Field observation", "High-fidelity prototyping"],
+    "answer": "Cognitive walkthrough",
+    "explanation": "Cognitive walkthroughs focus on the first-time user experience to catch issues early."
+  },
+  {
+    "question": "Why is iterative evaluation important in design?",
+    "options": ["To continually improve usability through testing and feedback", "To finalize design immediately", "To optimize code only", "To add more features randomly"],
+    "answer": "To continually improve usability through testing and feedback",
+    "explanation": "Iterative evaluation allows repeated refinement, ensuring a better user experience at each stage."
+  },
+  {
+    "question": "Which evaluation method helps uncover context-specific usability problems?",
+    "options": ["Field observation", "A/B testing", "Wireframing", "High-fidelity prototyping"],
+    "answer": "Field observation",
+    "explanation": "Observing users in their environment reveals real-world issues that lab testing might miss."
+  },
+  {
+    "question": "Which metric indicates how easily users can return to the system after a break?",
+    "options": ["Memorability", "Efficiency", "Satisfaction", "Error rate"],
+    "answer": "Memorability",
+    "explanation": "Memorability measures how well users remember how to use the system after not using it for some time."
+  },
+  {
+    "question": "Which evaluation method uses interactive prototypes to gather feedback before final development?",
+    "options": ["Prototype testing", "Heuristic evaluation", "Task analysis", "Storyboarding"],
+    "answer": "Prototype testing",
+    "explanation": "Testing prototypes with users helps identify design flaws and usability improvements early."
+  }
+],
+"Module - VIII: Designing for Diversity 08": [
+  {
+    "question": "What is the main goal of designing for diversity?",
+    "options": ["Ensure the system is usable by people with different abilities, backgrounds, and needs", "Make the interface colorful", "Increase code complexity", "Focus only on expert users"],
+    "answer": "Ensure the system is usable by people with different abilities, backgrounds, and needs",
+    "explanation": "Designing for diversity ensures accessibility, inclusivity, and usability for a wide range of users."
+  },
+  {
+    "question": "Which concept focuses on designing systems accessible to users with disabilities?",
+    "options": ["Accessibility", "Consistency", "Learnability", "Error recovery"],
+    "answer": "Accessibility",
+    "explanation": "Accessibility involves creating systems that people with visual, auditory, motor, or cognitive impairments can use effectively."
+  },
+  {
+    "question": "Which principle ensures content is understandable by users with different language skills?",
+    "options": ["Readability", "Efficiency", "Memorability", "Error prevention"],
+    "answer": "Readability",
+    "explanation": "Readability focuses on using clear language, appropriate fonts, and layout to make content understandable for everyone."
+  },
+  {
+    "question": "What is the purpose of localization in design?",
+    "options": ["Adapt the interface to local language, culture, and conventions", "Test server speed", "Optimize graphics", "Reduce coding errors"],
+    "answer": "Adapt the interface to local language, culture, and conventions",
+    "explanation": "Localization ensures that users from different regions can understand and use the system comfortably."
+  },
+  {
+    "question": "Which method helps test accessibility and usability for users with special needs?",
+    "options": ["Assistive technology testing", "A/B testing", "Wireframing", "Storyboarding"],
+    "answer": "Assistive technology testing",
+    "explanation": "Testing with screen readers, voice commands, or alternative input devices ensures accessibility for all users."
+  },
+  {
+    "question": "Which diversity factor involves designing for users of different ages?",
+    "options": ["Age inclusivity", "Technical skill level", "Server efficiency", "Layout consistency"],
+    "answer": "Age inclusivity",
+    "explanation": "Designing for age inclusivity considers cognitive, visual, and motor differences among younger and older users."
+  },
+  {
+    "question": "Why is cultural diversity important in interface design?",
+    "options": ["It ensures symbols, colors, and metaphors are culturally appropriate", "It increases system performance", "It reduces coding errors", "It improves graphics only"],
+    "answer": "It ensures symbols, colors, and metaphors are culturally appropriate",
+    "explanation": "Cultural diversity prevents misinterpretation and improves comfort and usability for users from different backgrounds."
+  },
+  {
+    "question": "Which design approach helps include users with different skill levels?",
+    "options": ["Progressive disclosure and flexibility", "High-fidelity prototyping only", "Backend optimization", "Server caching"],
+    "answer": "Progressive disclosure and flexibility",
+    "explanation": "Progressive disclosure allows beginners to see simple options, while experts can access advanced features."
+  },
+  {
+    "question": "Which principle ensures that information is perceivable by all users?",
+    "options": ["Perceivability", "Learnability", "Efficiency", "Error recovery"],
+    "answer": "Perceivability",
+    "explanation": "Perceivability ensures that content can be perceived through multiple senses, accommodating different abilities."
+  },
+  {
+    "question": "Which method involves testing designs with users from diverse groups?",
+    "options": ["Inclusive usability testing", "A/B testing", "Wireframing", "Heuristic evaluation"],
+    "answer": "Inclusive usability testing",
+    "explanation": "Testing with a wide range of users ensures the design works effectively for diverse populations."
+  },
+  {
+    "question": "What is the benefit of providing multiple ways to interact with a system?",
+    "options": ["Supports different abilities and preferences", "Reduces graphics quality", "Increases coding errors", "Focuses only on expert users"],
+    "answer": "Supports different abilities and preferences",
+    "explanation": "Offering multiple input methods, such as touch, keyboard, or voice, allows accessibility for a variety of users."
+  },
+  {
+    "question": "Which factor considers different literacy and language levels in design?",
+    "options": ["Language and literacy inclusivity", "Visual aesthetics", "Server performance", "Technical skill optimization"],
+    "answer": "Language and literacy inclusivity",
+    "explanation": "Design should use clear language and visual aids to accommodate users with different literacy skills."
+  },
+  {
+    "question": "Which design approach helps prevent bias in interfaces?",
+    "options": ["Inclusive design", "High-fidelity prototyping", "Database optimization", "Wireframing"],
+    "answer": "Inclusive design",
+    "explanation": "Inclusive design ensures systems are fair, equitable, and usable by people of all backgrounds."
+  },
+  {
+    "question": "Which accessibility guideline helps people with visual impairments?",
+    "options": ["Provide text alternatives for images", "Increase server speed", "Use flashy colors", "Hide advanced features"],
+    "answer": "Provide text alternatives for images",
+    "explanation": "Text alternatives allow screen readers to convey visual content to users with vision impairments."
+  },
+  {
+    "question": "Why is testing on multiple devices important for diversity?",
+    "options": ["Users may use different devices with varying capabilities", "Reduces server load", "Improves coding efficiency", "Adds more features"],
+    "answer": "Users may use different devices with varying capabilities",
+    "explanation": "Testing across devices ensures accessibility and usability for people using phones, tablets, or desktops."
+  },
+  {
+    "question": "Which principle ensures that color alone is not used to convey important information?",
+    "options": ["Perceptibility and contrast", "Efficiency", "Learnability", "Error recovery"],
+    "answer": "Perceptibility and contrast",
+    "explanation": "Using multiple cues ensures that users with color blindness or low vision can understand the information."
+  },
+  {
+    "question": "Which factor considers socio-economic diversity in design?",
+    "options": ["Affordability and accessibility of technology", "Server optimization", "High-fidelity prototyping", "Visual aesthetics only"],
+    "answer": "Affordability and accessibility of technology",
+    "explanation": "Design should consider that users may have limited access to high-end devices or fast internet."
+  },
+  {
+    "question": "Which approach involves involving diverse users early in the design process?",
+    "options": ["Participatory design", "Backend coding", "Wireframing only", "Database testing"],
+    "answer": "Participatory design",
+    "explanation": "Engaging users from different backgrounds ensures their needs and perspectives shape the design from the start."
+  },
+  {
+    "question": "Which principle ensures interactions are intuitive for all users?",
+    "options": ["Universal design", "High-fidelity prototyping", "Server caching", "Database indexing"],
+    "answer": "Universal design",
+    "explanation": "Universal design aims to create interfaces that are usable by the widest range of people without adaptation."
+  },
+  {
+    "question": "Which testing method helps identify cultural misunderstandings in design?",
+    "options": ["Cross-cultural usability testing", "A/B testing", "Wireframing", "Storyboarding"],
+    "answer": "Cross-cultural usability testing",
+    "explanation": "Testing with users from different cultures ensures icons, language, and metaphors are correctly understood."
+  }
+],
+
+"Module - IX: Designing for the Web 09": [
+  {
+    "question": "What is the main goal of designing for the web?",
+    "options": ["Ensure usability, accessibility, and responsiveness across browsers and devices", "Make websites flashy with animations", "Optimize server code only", "Focus on desktop users only"],
+    "answer": "Ensure usability, accessibility, and responsiveness across browsers and devices",
+    "explanation": "Web design should allow users to easily navigate and interact with the site on any device or browser."
+  },
+  {
+    "question": "Which design principle ensures that web pages look good on different screen sizes?",
+    "options": ["Responsive design", "Fixed layout", "High-fidelity prototyping", "Wireframing"],
+    "answer": "Responsive design",
+    "explanation": "Responsive design adapts layouts, images, and content to fit different screen sizes for optimal usability."
+  },
+  {
+    "question": "Which principle emphasizes fast loading times and smooth performance?",
+    "options": ["Performance optimization", "High-fidelity prototyping", "Wireframing", "Storyboarding"],
+    "answer": "Performance optimization",
+    "explanation": "Optimizing images, scripts, and server requests ensures faster load times and better user experience."
+  },
+  {
+    "question": "Which design principle focuses on consistent layout and navigation across pages?",
+    "options": ["Consistency", "Flexibility", "Learnability", "Memorability"],
+    "answer": "Consistency",
+    "explanation": "Consistent design helps users understand how to navigate and interact with the website easily."
+  },
+  {
+    "question": "Which principle ensures content is easy to read and understand on web pages?",
+    "options": ["Readability", "Accessibility", "Error prevention", "Efficiency"],
+    "answer": "Readability",
+    "explanation": "Readable fonts, spacing, and contrast improve comprehension and reduce user fatigue."
+  },
+  {
+    "question": "Which principle ensures that websites are accessible to people with disabilities?",
+    "options": ["Web accessibility", "Performance optimization", "High-fidelity prototyping", "Wireframing"],
+    "answer": "Web accessibility",
+    "explanation": "Accessibility ensures users with visual, auditory, motor, or cognitive impairments can use the site effectively."
+  },
+  {
+    "question": "Which method helps evaluate how users interact with web interfaces?",
+    "options": ["Usability testing", "Server testing", "Backend optimization", "Wireframing only"],
+    "answer": "Usability testing",
+    "explanation": "Usability testing identifies issues in navigation, content comprehension, and user satisfaction."
+  },
+  {
+    "question": "Which web design element guides users to important actions?",
+    "options": ["Call-to-action (CTA) buttons", "Header images", "Footer only", "Background color"],
+    "answer": "Call-to-action (CTA) buttons",
+    "explanation": "CTAs direct users toward desired actions, improving conversion and engagement."
+  },
+  {
+    "question": "Which principle ensures that web content is perceivable through multiple senses?",
+    "options": ["Perceivability", "Memorability", "Error prevention", "Consistency"],
+    "answer": "Perceivability",
+    "explanation": "Perceivability ensures users can access content visually, audibly, or through assistive technologies."
+  },
+  {
+    "question": "Which approach improves user experience by progressively showing complex content?",
+    "options": ["Progressive disclosure", "Fixed layout", "High-fidelity prototyping", "Wireframing"],
+    "answer": "Progressive disclosure",
+    "explanation": "Showing content gradually prevents information overload and simplifies decision-making for users."
+  },
+  {
+    "question": "Which factor affects web usability across different devices?",
+    "options": ["Cross-browser compatibility", "Server response only", "Code complexity only", "Color choices only"],
+    "answer": "Cross-browser compatibility",
+    "explanation": "Design and code should function correctly across major browsers like Chrome, Firefox, and Safari."
+  },
+  {
+    "question": "Which design approach ensures intuitive interaction with web elements?",
+    "options": ["Affordance and feedback", "High-fidelity prototyping", "Server optimization", "Database indexing"],
+    "answer": "Affordance and feedback",
+    "explanation": "Proper affordance and feedback help users understand what actions are possible and the results of their actions."
+  },
+  {
+    "question": "Which design principle improves scanning and reading of web content?",
+    "options": ["Visual hierarchy", "Consistency", "Flexibility", "Error prevention"],
+    "answer": "Visual hierarchy",
+    "explanation": "Organizing content using size, color, and layout guides users’ attention to important information."
+  },
+  {
+    "question": "Which method involves testing web pages with real users in realistic scenarios?",
+    "options": ["Field testing", "Wireframing only", "Backend coding", "Server load testing"],
+    "answer": "Field testing",
+    "explanation": "Observing users in real contexts helps identify usability issues that lab testing might miss."
+  },
+  {
+    "question": "Which technique reduces errors by providing clear navigation and instructions?",
+    "options": ["Error prevention", "Memorability", "High-fidelity prototyping", "Wireframing"],
+    "answer": "Error prevention",
+    "explanation": "Clear menus, labels, and instructions help users avoid mistakes while interacting with the website."
+  },
+  {
+    "question": "Which principle ensures that returning users can easily re-use the website?",
+    "options": ["Memorability", "Efficiency", "Readability", "Flexibility"],
+    "answer": "Memorability",
+    "explanation": "Memorability allows users to remember how to navigate and complete tasks after a break."
+  },
+  {
+    "question": "Which method helps compare multiple web design versions to improve performance?",
+    "options": ["A/B testing", "Field observation", "Wireframing", "Cognitive walkthrough"],
+    "answer": "A/B testing",
+    "explanation": "A/B testing evaluates two or more design variants to determine which is more effective."
+  },
+  {
+    "question": "Which principle focuses on reducing cognitive load on users?",
+    "options": ["Simplicity", "High-fidelity prototyping", "Server optimization", "Wireframing"],
+    "answer": "Simplicity",
+    "explanation": "Simplifying navigation, content, and interaction reduces user confusion and improves usability."
+  },
+  {
+    "question": "Which technique ensures text is legible against background images or colors?",
+    "options": ["Contrast and readability", "Visual hierarchy only", "Backend coding", "Server caching"],
+    "answer": "Contrast and readability",
+    "explanation": "Proper contrast between text and background ensures users can easily read content."
+  },
+  {
+    "question": "Which design factor ensures web users on slow connections can still access content?",
+    "options": ["Performance optimization and lightweight assets", "High-fidelity prototyping", "Wireframing only", "Database indexing"],
+    "answer": "Performance optimization and lightweight assets",
+    "explanation": "Optimizing images, scripts, and other assets improves accessibility for users with slow internet."
+  }
+]
+
+}
